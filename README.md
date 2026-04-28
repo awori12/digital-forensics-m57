@@ -1,3 +1,4 @@
+[CST 2580 Coursework 2 - Digital Incident Scene Investigation (1).pdf](https://github.com/user-attachments/files/27153715/CST.2580.Coursework.2.-.Digital.Incident.Scene.Investigation.1.pdf)
 # 🔍 Digital Forensic Investigation – M57.Biz Document Exfiltration
 **Module:** CST2580 – Digital Incident Scene Investigation and Analysis  
 **Institution:** Middlesex University Mauritius  
